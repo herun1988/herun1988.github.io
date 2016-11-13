@@ -39,6 +39,8 @@ skills:
  - Axway Synchrony
  - Splunk
  - Activiti
+ - Docker
+ - Maven
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -54,7 +56,7 @@ roles:
    start: Dec 2014
    end: Jul 2016
    employer: AdNovum, Singapore
-   description: Main iOS developer of TWINT payment App and merchant app. Communicate and coordinate in virtual teams across different countries, such as Europe and Vietnam. Develop Workflow product using AngujarJS and Activiti.
+   description: Main iOS developer of TWINT payment App and merchant app. Communicate and coordinate in virtual teams across different countries, such as Europe and Vietnam. <br /> Develop Workflow product using AngujarJS and Activiti.
  - title: Application Consultant
    start: Jul 2012
    end: Dec 2014

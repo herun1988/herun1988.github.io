@@ -38,6 +38,7 @@ skills:
  - Nevis
  - Axway Synchrony
  - Splunk
+ - Activiti
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
@@ -111,19 +112,8 @@ coursera:
       date: Dec 3, 2013
 
 #List of interesting Github repo/projects to include - optional
-#github:
-# - robhinds/learning-neural-networks
-# - robhinds/akka-http-rest-api-sample
-# - robhinds/twitter-sentiment-analysis
-# - robhinds/spring-reactor-twitter
-# - robhinds/microservices
-# - robhinds/spring-social-geeklist
-# - robhinds/spring-social-stackoverflow
-# - robhinds/food2vec
-# - robhinds/SpringMongoIntegrationExample
-# - robhinds/SpringNeo4JWebApp
-# - robhinds/AndroidChuckQuiz
-# - robhinds/AndroidRssReader
+# github:
+
 
 #Stackoverflow flair is optional
 #stackoverflow:
